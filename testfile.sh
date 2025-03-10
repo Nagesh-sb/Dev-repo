@@ -1,2 +1,2 @@
-whiami
+whoami
 echo "Nagesh"
